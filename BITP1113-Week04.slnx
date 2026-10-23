@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="BITP1113-Week04/BITP1113-Week04.vcxproj" />
-</Solution>
